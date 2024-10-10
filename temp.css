@@ -1,0 +1,16 @@
+#celsius{
+    background-color: white ;
+    color: black;
+    padding: 20px 20px;
+    border-radius: 30px;
+    border-color: blue;
+}
+.button{
+    background-color: aqua ;
+    color: black;
+    padding: 20px 20px;
+    border-radius: 30px;
+    border-color: blue;
+    font-weight: bold;
+  
+}
